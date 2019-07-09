@@ -10,3 +10,5 @@ The below displayed prototype was created by adhering with Nielsen's heuristics 
 <img>![image](https://user-images.githubusercontent.com/52187566/60860683-f86a8e80-a25a-11e9-9565-7473b1cb3d26.png)</img>
 <img>![image](https://user-images.githubusercontent.com/52187566/60860596-9f9af600-a25a-11e9-9a34-ef38e678ace3.png)</img>
 <img>![image](https://user-images.githubusercontent.com/52187566/60860501-28fdf880-a25a-11e9-9bcc-e019fa479afb.png)</img>
+<img>![image](https://user-images.githubusercontent.com/52187566/60860828-73cc4000-a25b-11e9-8f62-8461fe699ac0.png)</img>
+
