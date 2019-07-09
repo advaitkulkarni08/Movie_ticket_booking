@@ -6,3 +6,4 @@ Since all the users in Australia have to visit different websites of different c
 The below displayed prototype was created by adhering with Nielsen's heuristics and Norman's usability principles.
 
 <img>![image](https://user-images.githubusercontent.com/52187566/60860360-79c12180-a259-11e9-8d03-657e1e570985.png)</img>
+<img>![image](https://user-images.githubusercontent.com/52187566/60860436-d3c1e700-a259-11e9-87aa-e6e4e8868c57.png)</img>
